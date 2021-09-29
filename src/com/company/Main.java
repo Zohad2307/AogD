@@ -11,5 +11,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
         HelloWorld = in.nextLine();
         System.out.println("Du har indtastet " + HelloWorld);
+        System.out.println("Hej");
     }
 }
